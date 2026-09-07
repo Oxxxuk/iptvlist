@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 2" tvg-logo="http://185.193.88.130:80/images/4a33f1454aa3d840950ce6f29b913a43.png" group-title="IT: Italy General",IT: CANALE 2
+http://cdn-ky.com:80/augusto4/pass8384/226995.m3u8
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="IT: Cine 34 HD" tvg-logo="http://172.110.220.61:80/images/43771ac09356a529ce5860ba046eec5b.png" group-title="IT: Italy General",IT: Cine 34 HD
+http://cdn-ky.com:80/augusto4/pass8384/227007.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-name="IT: Discovery NOVE HD" tvg-logo="http://172.110.220.61:80/images/1eb12102fdfbfd322ff08068a2ede0d5.jpg" group-title="IT: Italy General",IT: Discovery NOVE HD
+http://cdn-ky.com:80/augusto4/pass8384/227028.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: DMAX 1 HD" tvg-logo="http://172.110.220.61:80/images/63d9bf97e1925923526c854a289c895c.png" group-title="IT: Italy General",IT: DMAX 1 HD
+http://cdn-ky.com:80/augusto4/pass8384/227035.m3u8
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT: Italia 1 FHD" tvg-logo="http://23.227.147.172:80/images/32175e9cefa10a3e9e6cd384686b083d.png" group-title="IT: Italy General",IT: Italia 1 FHD
+http://cdn-ky.com:80/augusto4/pass8384/227113.m3u8
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT: Italia 2 HD" tvg-logo="http://185.193.88.130:80/images/e3de9320d114f477b3c1cff14da369b5.png" group-title="IT: Italy General",IT: Italia 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/227114.m3u8
+#EXTINF:-1 tvg-id="mtv.it" tvg-name="IT: MTV CLASSIC HD" tvg-logo="http://23.227.147.172:80/images/0baa221715c37fd53dc141a818f0a149.png" group-title="IT: Italy General",IT: MTV CLASSIC HD
+http://cdn-ky.com:80/augusto4/pass8384/227155.m3u8
+#EXTINF:-1 tvg-id="aaraby.eg" tvg-name="IT: MTV Hits" tvg-logo="http://172.110.220.61:80/images/6c16cc6917943cd90170a024aec3707e.png" group-title="IT: Italy General",IT: MTV Hits
+http://cdn-ky.com:80/augusto4/pass8384/227156.m3u8
+#EXTINF:-1 tvg-id="DonauTV.de" tvg-name="IT: OndaTV" tvg-logo="http://172.110.220.61:80/images/5527ae25209de8875f7cd033bdc94b68.JPG" group-title="IT: Italy General",IT: OndaTV
+http://cdn-ky.com:80/augusto4/pass8384/227170.m3u8
+#EXTINF:-1 tvg-id="premiumcinema3.it" tvg-name="IT: Premium Comedy HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/premium_cinema_3_logo.webp" group-title="IT: Italy General",IT: Premium Comedy HD
+http://cdn-ky.com:80/augusto4/pass8384/227196.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.it" tvg-name="IT: Premium Disney Junior" tvg-logo="http://172.110.220.61:80/images/a4c1ab9e1701a4d74ca3da06763df0ba.png" group-title="IT: Italy General",IT: Premium Disney Junior
+http://cdn-ky.com:80/augusto4/pass8384/227200.m3u8
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-name="IT: Primocanale" tvg-logo="http://172.110.220.61:80/images/f1cb6c9287da7636ce40b5be9fb2c66d.png" group-title="IT: Italy General",IT: Primocanale
+http://cdn-ky.com:80/augusto4/pass8384/227224.m3u8
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT: Rai Sport 1 HD" tvg-logo="http://172.110.220.61:80/images/11c4a364d97b9091557680d73469aae5.png" group-title="IT: Sky Sports",IT: Rai Sport 1 HD
+http://cdn-ky.com:80/augusto4/pass8384/227251.m3u8
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="IT: Giallo HD" tvg-logo="http://23.227.147.172:80/images/d868a45f9c8802936a23af20b07e22c0.png" group-title="IT: Italy General",IT: Giallo HD
+http://cdn-ky.com:80/augusto4/pass8384/227258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Senato Della Rupublica" tvg-logo="http://185.193.88.130:80/images/c3b1e7ab6bcd5c7ff2d94e4a3bd598c4.png" group-title="IT: Italy General",IT: Senato Della Rupublica
+http://cdn-ky.com:80/augusto4/pass8384/227278.m3u8
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT: la 7D" tvg-logo="http://23.227.147.172:80/images/a3f8e42f99c3565ff06a14ded37aa55e.png" group-title="IT: Italy General",IT: la 7D
+http://cdn-ky.com:80/augusto4/pass8384/227283.m3u8
+#EXTINF:-1 tvg-id="TeleColor.it" tvg-name="IT: Telecolore HD" tvg-logo="http://172.110.220.61:80/images/1882f4df7d803a551ee2e8a65f75860b.png" group-title="IT: Italy General",IT: Telecolore HD
+http://cdn-ky.com:80/augusto4/pass8384/227396.m3u8
+#EXTINF:-1 tvg-id="Teleunion.do" tvg-name="IT: Telenord" tvg-logo="http://23.227.147.172:80/images/f2400622212dfdace7d36dbb424b0941.png" group-title="IT: Italy General",IT: Telenord
+http://cdn-ky.com:80/augusto4/pass8384/227403.m3u8
+#EXTINF:-1 tvg-id="telepace.it" tvg-name="IT: Telepace 1" tvg-logo="http://172.110.220.61:80/images/888d1e42d01eaffe4b6bbda72bb9c86f.png" group-title="IT: Italy General",IT: Telepace 1
+http://cdn-ky.com:80/augusto4/pass8384/227404.m3u8
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="IT: Telepace 2" tvg-logo="http://172.110.220.61:80/images/82295611fda00b1480a14367106a9c49.png" group-title="IT: Italy General",IT: Telepace 2
+http://cdn-ky.com:80/augusto4/pass8384/227405.m3u8
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="IT: Telepace 4" tvg-logo="http://172.110.220.61:80/images/82295611fda00b1480a14367106a9c49.png" group-title="IT: Italy General",IT: Telepace 4
+http://cdn-ky.com:80/augusto4/pass8384/227407.m3u8
+#EXTINF:-1 tvg-id="TeleColor.it" tvg-name="IT: Teletricolore" tvg-logo="http://23.227.147.172:80/images/791015c1cf3e30e435892f9b47b02243.png" group-title="IT: Italy General",IT: Teletricolore
+http://cdn-ky.com:80/augusto4/pass8384/227414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Uninettuno University TV" tvg-logo="http://23.227.147.172:80/images/61fca64988fae9ff3c76b6526e4bc608.png" group-title="IT: Italy General",IT: Uninettuno University TV
+http://cdn-ky.com:80/augusto4/pass8384/227438.m3u8
+#EXTINF:-1 tvg-id="VeraPlus.uy" tvg-name="IT: VERA TV" tvg-logo="http://23.227.147.172:80/images/7e03f3a2d0d04056a99dcd7d3ccf7938.png" group-title="IT: Italy General",IT: VERA TV
+http://cdn-ky.com:80/augusto4/pass8384/227440.m3u8
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT: Rai Gulp" tvg-logo="http://172.110.220.61:80/images/6bc08b9fb2127ee3600764b57416c355.png" group-title="IT: Bambini",IT: Rai Gulp
+http://cdn-ky.com:80/augusto4/pass8384/387035.m3u8
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT: Rai Yoyo" tvg-logo="http://172.110.220.61:80/images/9f1b3af41f2e894a37368066bcd66e65.png" group-title="IT: Bambini",IT: Rai Yoyo
+http://cdn-ky.com:80/augusto4/pass8384/387036.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.it" tvg-name="IT: Disney Junior" tvg-logo="http://23.227.147.172:80/images/b78d1a5d9195e0719187b19c19f84ffe.png" group-title="IT: Bambini",IT: Disney Junior
+http://cdn-ky.com:80/augusto4/pass8384/387038.m3u8
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT: Boing" tvg-logo="http://23.227.147.172:80/images/d2b5bfdceca6f2bb60e3c7d6a218a26b.png" group-title="IT: Bambini",IT: Boing
+http://cdn-ky.com:80/augusto4/pass8384/387041.m3u8
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="IT: Cartoonito" tvg-logo="http://185.193.88.130:80/images/87fc16c5dd152964c03eec2960a434db.png" group-title="IT: Bambini",IT: Cartoonito
+http://cdn-ky.com:80/augusto4/pass8384/387042.m3u8
+#EXTINF:-1 tvg-id="super.it" tvg-name="IT: Super!" tvg-logo="http://172.110.220.61:80/images/a3fc78519e09d3443a2cd18b5786dcd5.png" group-title="IT: Bambini",IT: Super!
+http://cdn-ky.com:80/augusto4/pass8384/387044.m3u8
+#EXTINF:-1 tvg-id="babytv.it" tvg-name="IT: Baby TV" tvg-logo="http://172.110.220.61:80/images/a02b200456ae929bab30a2a3b4ce9245.png" group-title="IT: Bambini",IT: Baby TV
+http://cdn-ky.com:80/augusto4/pass8384/387045.m3u8
+#EXTINF:-1 tvg-id="nickjunior.it" tvg-name="IT: NickJr" tvg-logo="http://172.110.220.61:80/images/4895c571dd0e532f81ffa5ec96a6799c.png" group-title="IT: Bambini",IT: NickJr
+http://cdn-ky.com:80/augusto4/pass8384/387047.m3u8
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT: K2" tvg-logo="http://185.193.88.130:80/images/30c7dfec2ddc5a9b87e18b34197ae761.png" group-title="IT: Bambini",IT: K2
+http://cdn-ky.com:80/augusto4/pass8384/387048.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: Canale 5" tvg-logo="http://23.227.147.172:80/images/e5ccd63b27a61dccac11b094f1883374.png" group-title="IT: Canale Italia",IT: Canale 5
+http://cdn-ky.com:80/augusto4/pass8384/387050.m3u8
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT: Canale 2 Altamura" tvg-logo="http://23.227.147.172:80/images/422e2d3ac3e179f0d0bb4fd1abe6b1cd.png" group-title="IT: Canale Italia",IT: Canale 2 Altamura
+http://cdn-ky.com:80/augusto4/pass8384/387051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 7" tvg-logo="http://172.110.220.61:80/images/5e199fcb48fa1d0443e29c04ca95a24f.png" group-title="IT: Canale Italia",IT: Canale 7
+http://cdn-ky.com:80/augusto4/pass8384/387052.m3u8
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT: Cielo" tvg-logo="http://185.193.88.130:80/images/d868a45f9c8802936a23af20b07e22c0.png" group-title="IT: Intrattenimento",IT: Cielo
+http://cdn-ky.com:80/augusto4/pass8384/387109.m3u8
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: Rai 1" tvg-logo="http://185.193.88.130:80/images/84f0189e1ec46eb3390f9e403c493aab.png" group-title="IT: Italy General",IT: Rai 1
+http://cdn-ky.com:80/augusto4/pass8384/387112.m3u8
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: Rai 2" tvg-logo="http://172.110.220.61:80/images/0565d208b730b5f8011ffdd16c504660.png" group-title="IT: Italy General",IT: Rai 2
+http://cdn-ky.com:80/augusto4/pass8384/387113.m3u8
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: Rai 4" tvg-logo="http://172.110.220.61:80/images/c9227e0af0a7598eff7f5608fa5b306e.png" group-title="IT: Italy General",IT: Rai 4
+http://cdn-ky.com:80/augusto4/pass8384/387115.m3u8
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT: Rai Movie" tvg-logo="http://172.110.220.61:80/images/9d2f01f81d33a9f70f3da783092d4642.png" group-title="IT: Italy General",IT: Rai Movie
+http://cdn-ky.com:80/augusto4/pass8384/387119.m3u8
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT: Rai Scuola" tvg-logo="http://23.227.147.172:80/images/98849d08d741ba89643c439cac9c8e43.png" group-title="IT: Italy General",IT: Rai Scuola
+http://cdn-ky.com:80/augusto4/pass8384/387120.m3u8
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="IT: Rai News24" tvg-logo="http://185.193.88.130:80/images/7a3b67b0412a0d9ea25d843b95ebdae0.png" group-title="IT: Italy General",IT: Rai News24
+http://cdn-ky.com:80/augusto4/pass8384/387121.m3u8
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: Mediaset 20" tvg-logo="http://185.193.88.130:80/images/b15796a3ad6399072343e2a154673a16.png" group-title="IT: Mediaset Premium",IT: Mediaset 20
+http://cdn-ky.com:80/augusto4/pass8384/387125.m3u8
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="IT: Mediaset Extra" tvg-logo="http://185.193.88.130:80/images/ebc873e48a27fe9d6e51309ecba8812a.png" group-title="IT: Italy General",IT: Mediaset Extra
+http://cdn-ky.com:80/augusto4/pass8384/387126.m3u8
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT: Rete 4 TV" tvg-logo="http://185.193.88.130:80/images/2efcba4f5e5c5f4185d32b62ffb6abdb.png" group-title="IT: Italy General",IT: Rete 4 TV
+http://cdn-ky.com:80/augusto4/pass8384/387128.m3u8
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT: La 5" tvg-logo="http://185.193.88.130:80/images/6148b87152feeebb9610107c6cdd8530.jpg" group-title="IT: Italy General",IT: La 5
+http://cdn-ky.com:80/augusto4/pass8384/387129.m3u8
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT: La 7" tvg-logo="http://185.193.88.130:80/images/5ec31f6c9432fd78af25a5a8a4138e89.png" group-title="IT: Italy General",IT: La 7
+http://cdn-ky.com:80/augusto4/pass8384/387130.m3u8
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="IT: Tgcom 24" tvg-logo="http://172.110.220.61:80/images/773a23c2fb2b8e9096ae33fa7c77ac05.png" group-title="IT: Italy General",IT: Tgcom 24
+http://cdn-ky.com:80/augusto4/pass8384/387132.m3u8
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="IT: Sky Arte" tvg-logo="http://185.193.88.130:80/images/586e1fd7b63523b783b936d17764c5a6.png" group-title="IT: Sky Primafila",IT: Sky Arte
+http://cdn-ky.com:80/augusto4/pass8384/387133.m3u8
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT: Sky TG24 SD" tvg-logo="http://23.227.147.172:80/images/ff932e58fcd3d1f3ae0f98b4e274f3f5.png" group-title="IT: Sky Primafila",IT: Sky TG24 SD
+http://cdn-ky.com:80/augusto4/pass8384/387135.m3u8
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT: RTL 102.5 TV" tvg-logo="http://185.193.88.130:80/images/58fe9b141a6effda86f3da43653206b8.png" group-title="IT: Musica",IT: RTL 102.5 TV
+http://cdn-ky.com:80/augusto4/pass8384/387137.m3u8
+#EXTINF:-1 tvg-id="mydeejay.it" tvg-name="IT: DEEJAY TV" tvg-logo="http://23.227.147.172:80/images/90c46742fa19370ffb884caaeea21c63.png" group-title="IT: Musica",IT: DEEJAY TV
+http://cdn-ky.com:80/augusto4/pass8384/387138.m3u8
+#EXTINF:-1 tvg-id="RDS.ca" tvg-name="IT: RDS TV" tvg-logo="http://172.110.220.61:80/images/dad67fb9b9763e28e4692227c02af1dc.png" group-title="IT: Musica",IT: RDS TV
+http://cdn-ky.com:80/augusto4/pass8384/387139.m3u8
+#EXTINF:-1 tvg-id="Radio100.dk" tvg-name="IT: Radio 51" tvg-logo="http://23.227.147.172:80/images/77a8dcbbfaad3a563d2b129bfd14c36d.png" group-title="IT: Musica",IT: Radio 51
+http://cdn-ky.com:80/augusto4/pass8384/387142.m3u8
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="IT: Premium Crime HD" tvg-logo="http://185.193.88.130:80/images/538bbc1786c861f6787453a14e88ce10.png" group-title="IT: Mediaset Premium",IT: Premium Crime HD
+http://cdn-ky.com:80/augusto4/pass8384/387153.m3u8
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="IT: Sky Sport Arena" tvg-logo="http://185.193.88.130:80/images/98ca2f2be2ffc9fff781d4c3160b0d61.png" group-title="IT: Sky Sports",IT: Sky Sport Arena
+http://cdn-ky.com:80/augusto4/pass8384/387158.m3u8
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="IT: Sky Sport NBA" tvg-logo="http://23.227.147.172:80/images/6d3e1f94cb3f59717c80c52b9da65b85.png" group-title="IT: Sky Sports",IT: Sky Sport NBA
+http://cdn-ky.com:80/augusto4/pass8384/387161.m3u8
+#EXTINF:-1 tvg-id="raisportplus.it" tvg-name="IT: Rai Sport+" tvg-logo="http://23.227.147.172:80/images/a09b72b92937534c1c9456fd9032b492.png" group-title="IT: Sky Sports",IT: Rai Sport+
+http://cdn-ky.com:80/augusto4/pass8384/387174.m3u8
+#EXTINF:-1 tvg-id="smtvsanmarino.it" tvg-name="IT: RTV Sport 1 HD" tvg-logo="http://185.193.88.130:80/images/f7421c229549eb07f489ff8c355edbbd.png" group-title="IT: Sky Sports",IT: RTV Sport 1 HD
+http://cdn-ky.com:80/augusto4/pass8384/387181.m3u8
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: Eurosport 2 HD" tvg-logo="http://185.193.88.130:80/images/c056bbc77d9a7e826f35a36fa022e20f.png" group-title="IT: Sky Sports",IT: Eurosport 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/387186.m3u8
+#EXTINF:-1 tvg-id="primafila4.it" tvg-name="IT: SKY Primafila 4 HD" tvg-logo="http://172.110.220.61:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 4 HD
+http://cdn-ky.com:80/augusto4/pass8384/387193.m3u8
+#EXTINF:-1 tvg-id="primafila7.it" tvg-name="IT: SKY Primafila 7 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 7 HD
+http://cdn-ky.com:80/augusto4/pass8384/387196.m3u8
+#EXTINF:-1 tvg-id="primafila8.it" tvg-name="IT: SKY Primafila 8 HD" tvg-logo="http://172.110.220.61:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 8 HD
+http://cdn-ky.com:80/augusto4/pass8384/387197.m3u8
+#EXTINF:-1 tvg-id="primafila9.it" tvg-name="IT: SKY Primafila 9 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 9 HD
+http://cdn-ky.com:80/augusto4/pass8384/387198.m3u8
+#EXTINF:-1 tvg-id="primafila10.it" tvg-name="IT: SKY Primafila 10 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 10 HD
+http://cdn-ky.com:80/augusto4/pass8384/387199.m3u8
+#EXTINF:-1 tvg-id="primafila12.it" tvg-name="IT: SKY Primafila 12 HD" tvg-logo="http://172.110.220.61:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 12 HD
+http://cdn-ky.com:80/augusto4/pass8384/387201.m3u8
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="IT: Sky Cinema Due +24 HD" tvg-logo="http://23.227.147.172:80/images/3f0ebff6ccf3eed92f17a1299e52f301.png" group-title="IT: Sky Cinema",IT: Sky Cinema Due +24 HD
+http://cdn-ky.com:80/augusto4/pass8384/387212.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="IT: Sky Cinema Family" tvg-logo="http://23.227.147.172:80/images/be72d852ab3e176bd8bdec4ce333ed06.png" group-title="IT: Sky Cinema",IT: Sky Cinema Family
+http://cdn-ky.com:80/augusto4/pass8384/387215.m3u8
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="IT: Sky Cinema Drama" tvg-logo="http://185.193.88.130:80/images/f2c93400e7ce1172bd450f20b9af6bdd.png" group-title="IT: Sky Cinema",IT: Sky Cinema Drama
+http://cdn-ky.com:80/augusto4/pass8384/387219.m3u8
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT: Rai Storia" tvg-logo="http://172.110.220.61:80/images/05e8a9e967dfe329cad579a670e19337.png" group-title="IT: Cultura",IT: Rai Storia
+http://cdn-ky.com:80/augusto4/pass8384/387222.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: Dmax" tvg-logo="http://23.227.147.172:80/images/b4c6cd793903ea417f9f4fc9504b64e0.png" group-title="IT: Cultura",IT: Dmax
+http://cdn-ky.com:80/augusto4/pass8384/387223.m3u8
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="IT: Real Time" tvg-logo="http://172.110.220.61:80/images/1cce87ef232593b5ab7eb49cb0be0e49.png" group-title="IT: Cultura",IT: Real Time
+http://cdn-ky.com:80/augusto4/pass8384/387237.m3u8
+#EXTINF:-1 tvg-id="tv2000.it" tvg-name="IT: TV 2000" tvg-logo="http://172.110.220.61:80/images/5a4d0055510b3ad7198e2a661300a656.png" group-title="IT: Cultura",IT: TV 2000
+http://cdn-ky.com:80/augusto4/pass8384/387238.m3u8
+#EXTINF:-1 tvg-id="Aurora.au" tvg-name="IT: Aurora Arte" tvg-logo="http://172.110.220.61:80/images/73ff75054955b55bc50cbf7b4c36ac72.png" group-title="IT: Cultura",IT: Aurora Arte
+http://cdn-ky.com:80/augusto4/pass8384/387240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Carina TV" tvg-logo="http://185.193.88.130:80/images/e5ac936a2fc62f32df22fa963ce50af3.png" group-title="IT: Cultura",IT: Carina TV
+http://cdn-ky.com:80/augusto4/pass8384/387242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV" tvg-logo="http://ky-tv.cc:25461/images/9bdd12502bc315ff1540a82e6ff18a44.png" group-title="IT: Cultura",IT: Esperia TV
+http://cdn-ky.com:80/augusto4/pass8384/387244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: m2o TV" tvg-logo="http://172.110.220.61:80/images/39de62a6b4c0d22e19a7a5508de4e1fb.png" group-title="IT: Cultura",IT: m2o TV
+http://cdn-ky.com:80/augusto4/pass8384/387247.m3u8
+#EXTINF:-1 tvg-id="RENTVEesti.ee" tvg-name="IT: Rete veneta" tvg-logo="http://ky-tv.cc:25461/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="IT: Cultura",IT: Rete veneta
+http://cdn-ky.com:80/augusto4/pass8384/387255.m3u8
+#EXTINF:-1 tvg-id="SuperstarTV.rs" tvg-name="IT: TV Brescia" tvg-logo="http://23.227.147.172:80/images/c56eb46de577216b55cee9e2e0a08bc1.png" group-title="IT: Cultura",IT: TV Brescia
+http://cdn-ky.com:80/augusto4/pass8384/387259.m3u8
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="IT: Tele Sondrio News HD" tvg-logo="https://lh3.googleusercontent.com/proxy/jFNYLoybEFl62pmzb_gT7yA3MuD28VRb2YPIRrlzSP51BWWoaU6dRHKc94NmTcO_-HEuN69f3z7kPsEHYGLW8KFAX_496EHrQC6H2Yo_X6GLtvBUZr_l1zDHhqOrHrnbitwHlssEfw" group-title="IT: Cultura",IT: Tele Sondrio News HD
+http://cdn-ky.com:80/augusto4/pass8384/387264.m3u8
+#EXTINF:-1 tvg-id="tvavicenza.it" tvg-name="IT: TVA Vicenza" tvg-logo="http://185.193.88.130:80/images/cc98c349de4c28188ec0fb6d134646c9.png" group-title="IT: Cultura",IT: TVA Vicenza
+http://cdn-ky.com:80/augusto4/pass8384/387271.m3u8
+#EXTINF:-1 tvg-id="spiketv.it" tvg-name="IT: Spike" tvg-logo="http://185.193.88.130:80/images/1118b38d5f060466f891c968690abd48.png" group-title="IT: Cultura",IT: Spike
+http://cdn-ky.com:80/augusto4/pass8384/387278.m3u8
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="IT: RSI La 2 HD" tvg-logo="http://23.227.147.172:80/images/4a8f0235613e355498bf3f0729c62440.png" group-title="IT: Cultura",IT: RSI La 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/387285.m3u8
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT: FRISBEE" tvg-logo="http://185.193.88.130:80/images/3b8e9c5825b1728a35b92f67933a93c1.png" group-title="IT: Cultura",IT: FRISBEE
+http://cdn-ky.com:80/augusto4/pass8384/387286.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT: Discovery Channel" tvg-logo="http://172.110.220.61:80/images/2e2998b6335cef77cea46024df527153.png" group-title="IT: Cultura",IT: Discovery Channel
+http://cdn-ky.com:80/augusto4/pass8384/387226.m3u8
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="IT: Focus" tvg-logo="http://185.193.88.130:80/images/2bf91115c4665a16fbfc46866448471b.png" group-title="IT: Cultura",IT: Focus
+http://cdn-ky.com:80/augusto4/pass8384/387231.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-name="IT: Nove TV" tvg-logo="http://185.193.88.130:80/images/253ed30b4fea6e27096bbce39ebd03bf.png" group-title="IT: Cultura",IT: Nove TV
+http://cdn-ky.com:80/augusto4/pass8384/387232.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="IT: Teleromagna" tvg-logo="http://185.193.88.130:80/images/a236e21bd67137946e29943055926ac4.png" group-title="IT: Italy General",IT: Teleromagna
+http://cdn-ky.com:80/augusto4/pass8384/227411.m3u8
+#EXTINF:-1 tvg-id="frisbee.it" tvg-name="IT: Discovery FRISBEE HD" tvg-logo="http://185.193.88.130:80/images/ebf70e46b791bf88905995a5c68c4604.png" group-title="IT: Italy General",IT: Discovery FRISBEE HD
+http://cdn-ky.com:80/augusto4/pass8384/227027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV Yes Umbria" tvg-logo="http://185.193.88.130:80/images/80c1716fd2e09b9b480cce475bbbe163.png" group-title="IT: Italy General",IT: TV Yes Umbria
+http://cdn-ky.com:80/augusto4/pass8384/220980.m3u8
+#EXTINF:-1 tvg-id="RadioBremenTV.de" tvg-name="IT: RADIO M20 TV" tvg-logo="http://172.110.220.61:80/images/2737b9b0ab4d426467f62b0b27acf675.png" group-title="IT: Italy General",IT: RADIO M20 TV
+http://cdn-ky.com:80/augusto4/pass8384/220881.m3u8
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT: LA7d FHD" tvg-logo="http://172.110.220.61:80/images/505e174bf7dcd7a4fecc1ae594d1499d.png" group-title="IT: Intrattenimento",IT: LA7d FHD
+http://cdn-ky.com:80/augusto4/pass8384/220835.m3u8
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="IT: ITALIA 2 MEDIASET HD" tvg-logo="http://172.110.220.61:80/images/e3de9320d114f477b3c1cff14da369b5.png" group-title="IT: Mediaset Premium",IT: ITALIA 2 MEDIASET HD
+http://cdn-ky.com:80/augusto4/pass8384/220829.m3u8
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT: Iris HD" tvg-logo="http://185.193.88.130:80/images/b63afe656e15bdc8dc52997d05798804.png" group-title="IT: Italy General",IT: Iris HD
+http://cdn-ky.com:80/augusto4/pass8384/220827.m3u8
+#EXTINF:-1 tvg-id="primafila3.it" tvg-name="IT: SKY Primafila 3 HD" tvg-logo="" group-title="IT: Sky Primafila",IT: SKY Primafila 3 HD
+http://cdn-ky.com:80/augusto4/pass8384/387192.m3u8
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT: Super Tennis" tvg-logo="http://23.227.147.172:80/images/50e9ab1b0f7a889a6c381a6fb3dd958e.png" group-title="IT: Sky Sports",IT: Super Tennis
+http://cdn-ky.com:80/augusto4/pass8384/514649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTTR" tvg-logo="" group-title="IT: Cultura",IT: RTTR
+http://cdn-ky.com:80/augusto4/pass8384/387256.m3u8
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="IT: Top Crime" tvg-logo="http://172.110.220.61:80/images/db0ec4b8d9784050cbe19655a24a54c8.png" group-title="IT: Intrattenimento",IT: Top Crime
+http://cdn-ky.com:80/augusto4/pass8384/387122.m3u8
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT: MEDIASET IRIS" tvg-logo="http://185.193.88.130:80/images/c28f0386ff4b7942e1def2c2decbed63.png" group-title="IT: Italy General",IT: MEDIASET IRIS
+http://cdn-ky.com:80/augusto4/pass8384/227144.m3u8
+#EXTINF:-1 tvg-id="skycinemaunoplus24.it" tvg-name="IT: SKY CINEMA UNO" tvg-logo="http://172.110.220.61:80/images/aecef261aa8e7f8063bc50b17799035a.png" group-title="IT: Sky Cinema",IT: SKY CINEMA UNO
+http://cdn-ky.com:80/augusto4/pass8384/1195880.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT: Skylantic HD" tvg-logo="http://185.193.88.130:80/images/f101b6170e4e2ee2570bfb5712e6ea37.png" group-title="IT: Italy General",IT: Skylantic HD
+http://cdn-ky.com:80/augusto4/pass8384/227367.m3u8
+#EXTINF:-1 tvg-id="primafila18.it" tvg-name="IT: Primafila 18 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Italy General",IT: Primafila 18 HD
+http://cdn-ky.com:80/augusto4/pass8384/227223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sophia TV" tvg-logo="http://23.227.147.172:80/images/7f22cacbe96df43b17809f6cc6519e5b.png" group-title="IT: Cultura",IT: Sophia TV
+http://cdn-ky.com:80/augusto4/pass8384/387258.m3u8
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="IT: Elive TV Brescia" tvg-logo="http://185.193.88.130:80/images/a6fcabd1f29e95f48abbc93ba61c6e62.png" group-title="IT: Cultura",IT: Elive TV Brescia
+http://cdn-ky.com:80/augusto4/pass8384/387243.m3u8
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="IT: TV8" tvg-logo="http://172.110.220.61:80/images/a1fdb8da6bd2426214ce33e8023b8927.png" group-title="IT: Intrattenimento",IT: TV8
+http://cdn-ky.com:80/augusto4/pass8384/387108.m3u8
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT: Sky Uno HD" tvg-logo="http://172.110.220.61:80/images/c378f84be4ef982320d3a74a88436455.png" group-title="IT: Intrattenimento",IT: Sky Uno HD
+http://cdn-ky.com:80/augusto4/pass8384/387207.m3u8
+#EXTINF:-1 tvg-id="smtvsanmarino.it" tvg-name="IT: RTV Reggio HD" tvg-logo="http://185.193.88.130:80/images/1f700b334f8bcf9da2b12d78bf73ee7f.png" group-title="IT: Cultura",IT: RTV Reggio HD
+http://cdn-ky.com:80/augusto4/pass8384/387257.m3u8
+#EXTINF:-1 tvg-id="premiumaction.it" tvg-name="IT: Premium Action" tvg-logo="http://185.193.88.130:80/images/6a4a2e6ccc618cb6b979165ae45a6ea4.png" group-title="IT: Mediaset Premium",IT: Premium Action
+http://cdn-ky.com:80/augusto4/pass8384/387147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Orler TV" tvg-logo="http://172.110.220.61:80/images/df8ab9f30912c7992271d4896ece17b6.png" group-title="IT: Cultura",IT: Orler TV
+http://cdn-ky.com:80/augusto4/pass8384/387248.m3u8
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: Eurosport 1 HD" tvg-logo="http://23.227.147.172:80/images/d20c4da13b52ed000fd7485cf7eeca32.png" group-title="IT: Sky Sports",IT: Eurosport 1 HD
+http://cdn-ky.com:80/augusto4/pass8384/387185.m3u8
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="IT: Rai Premium" tvg-logo="http://23.227.147.172:80/images/811247c55d845b863386dca0a55c450d.png" group-title="IT: Italy General",IT: Rai Premium
+http://cdn-ky.com:80/augusto4/pass8384/387118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: RADIO ITALIA HD" tvg-logo="http://185.193.88.130:80/images/7cbc554b7688345cf34bd134ef57e1d5.png" group-title="IT: Musica",IT: RADIO ITALIA HD
+http://cdn-ky.com:80/augusto4/pass8384/387144.m3u8
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: DAZN 1" tvg-logo="http://172.110.220.61:80/images/edfb04b548ada5e3c911a84983b7d4c8.png" group-title="IT: Sky Sports",IT: DAZN 1
+http://cdn-ky.com:80/augusto4/pass8384/1585986.m3u8
+#EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="IT: Premium Cinema FHD" tvg-logo="http://185.193.88.130:80/images/2630c84c187f4dacbb9aeb8bbdab38e7.png" group-title="IT: Italy General",IT: Premium Cinema FHD
+http://cdn-ky.com:80/augusto4/pass8384/220858.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="IT: RADIO ITALIA TV HD" tvg-logo="http://172.110.220.61:80/images/2138ffd165eb8024ebbb1dda38a9751b.png" group-title="IT: Italy General",IT: RADIO ITALIA TV HD
+http://cdn-ky.com:80/augusto4/pass8384/227232.m3u8
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT: Quarta Rete TV" tvg-logo="http://23.227.147.172:80/images/ca252facba6361b25d15609c85ed5bc2.png" group-title="IT: Italy General",IT: Quarta Rete TV
+http://cdn-ky.com:80/augusto4/pass8384/227226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTV Reggio" tvg-logo="http://172.110.220.61:80/images/722cf527dc6283a45d6c1c1a53f0cd8b.png" group-title="IT: Italy General",IT: RTV Reggio
+http://cdn-ky.com:80/augusto4/pass8384/227275.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="IT: Telefoggia" tvg-logo="http://185.193.88.130:80/images/1fd9f7c2428ad091db1698f72728035a.jpg" group-title="IT: Italy General",IT: Telefoggia
+http://cdn-ky.com:80/augusto4/pass8384/227399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: TVRS" tvg-logo="data:image/jpeg;base64,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" group-title="IT: Cultura",IT: TVRS
+http://cdn-ky.com:80/augusto4/pass8384/387272.m3u8
+#EXTINF:-1 tvg-id="Televida.do" tvg-name="IT: TeleVideo Agrigento" tvg-logo="http://23.227.147.172:80/images/59b23051e3d75d2dadffe04ff37aeac0.png" group-title="IT: Cultura",IT: TeleVideo Agrigento
+http://cdn-ky.com:80/augusto4/pass8384/387268.m3u8
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: Rai 3" tvg-logo="http://23.227.147.172:80/images/8da487f25a54ab8f8707d95bb7f1b682.png" group-title="IT: Italy General",IT: Rai 3
+http://cdn-ky.com:80/augusto4/pass8384/387114.m3u8
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="IT: RSI La 1 HD" tvg-logo="http://185.193.88.130:80/images/7eb37e81a69a2479e5c1c2cb6c8de8cc.png" group-title="IT: Cultura",IT: RSI La 1 HD
+http://cdn-ky.com:80/augusto4/pass8384/387284.m3u8
+#EXTINF:-1 tvg-id="iris.it" tvg-name="IT: Iris Mediaset" tvg-logo="http://185.193.88.130:80/images/c28f0386ff4b7942e1def2c2decbed63.png" group-title="IT: Italy General",IT: Iris Mediaset
+http://cdn-ky.com:80/augusto4/pass8384/387127.m3u8
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT: Rai 5" tvg-logo="http://23.227.147.172:80/images/9e1099a7bcb16cea9dfce66fa3e57120.png" group-title="IT: Italy General",IT: Rai 5
+http://cdn-ky.com:80/augusto4/pass8384/387116.m3u8
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT: Sky Sport Futboll" tvg-logo="http://23.227.147.172:80/images/26db659531b3d181110c29728b2533b2.png" group-title="IT: Sky Sports",IT: Sky Sport Futboll
+http://cdn-ky.com:80/augusto4/pass8384/220946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: CAFE 24 HD" tvg-logo="http://172.110.220.61:80/images/ff31a7b1033f3510c221e0fca93684e3.png" group-title="IT: Italy General",IT: CAFE 24 HD
+http://cdn-ky.com:80/augusto4/pass8384/226990.m3u8
+#EXTINF:-1 tvg-id="euronews.it" tvg-name="IT: Euronews" tvg-logo="http://185.193.88.130:80/images/cfd8f1809cc7f0927c2443ceddb131f9.jpg" group-title="IT: Italy General",IT: Euronews
+http://cdn-ky.com:80/augusto4/pass8384/227084.m3u8
+#EXTINF:-1 tvg-id="primafila14.it" tvg-name="IT: SKY Primafila 14 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 14 HD
+http://cdn-ky.com:80/augusto4/pass8384/387203.m3u8
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="IT: Sport Seri A" tvg-logo="http://172.110.220.61:80/images/4c650ca4ff8630b0f96403d91b6173a8.png" group-title="IT: Italy General",IT: Sport Seri A
+http://cdn-ky.com:80/augusto4/pass8384/227375.m3u8
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="IT: Fishing TV" tvg-logo="http://172.110.220.61:80/images/9159459fa83ffa2af30ab21bd71790c1.png" group-title="IT: Cultura",IT: Fishing TV
+http://cdn-ky.com:80/augusto4/pass8384/387234.m3u8
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT: Sky Sport Uno" tvg-logo="http://23.227.147.172:80/images/220e325fc097b88a49a2dec24b517cc3.png" group-title="IT: Sky Sports",IT: Sky Sport Uno
+http://cdn-ky.com:80/augusto4/pass8384/387155.m3u8
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="IT: Sky Sport F1" tvg-logo="" group-title="IT: Sky Sports",IT: Sky Sport F1
+http://cdn-ky.com:80/augusto4/pass8384/387160.m3u8
+#EXTINF:-1 tvg-id="telepace.it" tvg-name="IT: TelePace TV" tvg-logo="http://23.227.147.172:80/images/888d1e42d01eaffe4b6bbda72bb9c86f.png" group-title="IT: Italy General",IT: TelePace TV
+http://cdn-ky.com:80/augusto4/pass8384/227408.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="IT: Premium Cartoon Network" tvg-logo="http://185.193.88.130:80/images/1927ed7bc2ef4ddd783b3c5a21304c25.png" group-title="IT: Italy General",IT: Premium Cartoon Network
+http://cdn-ky.com:80/augusto4/pass8384/227185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Wine TV" tvg-logo="http://23.227.147.172:80/images/bfc23eb496a740d7fd323a50123076be.png" group-title="IT: Cultura",IT: Wine TV
+http://cdn-ky.com:80/augusto4/pass8384/1164694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Azione FHD" tvg-logo="http://23.227.147.172:80/images/29e064c538ab6a20751facf35af9b06b.png" group-title="IT: Eagle Cinema VIP",IT: Eagle Cinema Azione FHD
+http://cdn-ky.com:80/augusto4/pass8384/1814233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Commedia FHD" tvg-logo="http://185.193.88.130:80/images/29e064c538ab6a20751facf35af9b06b.png" group-title="IT: Eagle Cinema VIP",IT: Eagle Cinema Commedia FHD
+http://cdn-ky.com:80/augusto4/pass8384/1814237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Drammatico FHD" tvg-logo="http://185.193.88.130:80/images/29e064c538ab6a20751facf35af9b06b.png" group-title="IT: Eagle Cinema VIP",IT: Eagle Cinema Drammatico FHD
+http://cdn-ky.com:80/augusto4/pass8384/1814238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Thriller FHD" tvg-logo="http://172.110.220.61:80/images/29e064c538ab6a20751facf35af9b06b.png" group-title="IT: Eagle Cinema VIP",IT: Eagle Cinema Thriller FHD
+http://cdn-ky.com:80/augusto4/pass8384/1814251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Nature Discovery HD" tvg-logo="http://185.193.88.130:80/images/29e064c538ab6a20751facf35af9b06b.png" group-title="IT: Eagle Cinema VIP",IT: Eagle Nature Discovery HD
+http://cdn-ky.com:80/augusto4/pass8384/1814253.m3u8
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="IT: Telepace 3" tvg-logo="http://23.227.147.172:80/images/888d1e42d01eaffe4b6bbda72bb9c86f.png" group-title="IT: Italy General",IT: Telepace 3
+http://cdn-ky.com:80/augusto4/pass8384/227406.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="IT: Rete Biella TV" tvg-logo="http://23.227.147.172:80/images/f18a3608eb6fd8394a9ca0bf503b1ba4.png" group-title="IT: Italy General",IT: Rete Biella TV
+http://cdn-ky.com:80/augusto4/pass8384/227263.m3u8
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="IT: NAT GEO WILD HD" tvg-logo="http://172.110.220.61:80/images/cfe74d2d8bbb6c951655f50cf91647e4.png" group-title="IT: Cultura",IT: NAT GEO WILD HD
+http://cdn-ky.com:80/augusto4/pass8384/387225.m3u8
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="IT: Lazio Channel FHD" tvg-logo="http://185.193.88.130:80/images/a7355326b6f629ac8b3a7ece1de7aee1.png" group-title="IT: Italy General",IT: Lazio Channel FHD
+http://cdn-ky.com:80/augusto4/pass8384/387180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Videolina" tvg-logo="" group-title="IT: Italy General",IT: Videolina
+http://cdn-ky.com:80/augusto4/pass8384/1857052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT Disney+ Film FHD" tvg-logo="" group-title="IT: Italy General",IT Disney+ Film FHD
+http://cdn-ky.com:80/augusto4/pass8384/1900536.m3u8
+#EXTINF:-1 tvg-id="premiumcinema2.it" tvg-name="IT: PREMIUM CINEMA 2 HD" tvg-logo="http://172.110.220.61:80/images/072116e9719e682e72e420a41e022dd9.png" group-title="IT: Italy General",IT: PREMIUM CINEMA 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/227187.m3u8
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT: Sky Sport MotoGP" tvg-logo="http://23.227.147.172:80/images/d82bc53e4a944a1164d06984c9bb3513.png" group-title="IT: Sky Sports",IT: Sky Sport MotoGP
+http://cdn-ky.com:80/augusto4/pass8384/387162.m3u8
+#EXTINF:-1 tvg-id="cacciapesca.it" tvg-name="IT: CACCIA e Pesca" tvg-logo="http://172.110.220.61:80/images/f9852604f00e9f8346d59882d03c3231.png" group-title="IT: Cultura",IT: CACCIA e Pesca
+http://cdn-ky.com:80/augusto4/pass8384/387235.m3u8
+#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="IT: Icaro TV" tvg-logo="http://172.110.220.61:80/images/e31e815bab3985af6106be9dd3056ff9.png" group-title="IT: Cultura",IT: Icaro TV
+http://cdn-ky.com:80/augusto4/pass8384/387245.m3u8
+#EXTINF:-1 tvg-id="primafila2.it" tvg-name="IT: SKY PrimaFila 2 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY PrimaFila 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/387191.m3u8
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="IT: History" tvg-logo="http://172.110.220.61:80/images/34c1ab0b9626dbbfc679ec45f232b6f7.png" group-title="IT: Intrattenimento",IT: History
+http://cdn-ky.com:80/augusto4/pass8384/387134.m3u8
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT: RAI Italia" tvg-logo="http://23.227.147.172:80/images/f22766da11ad082535fa749d0b762a9b.png" group-title="IT: Italy General",IT: RAI Italia
+http://cdn-ky.com:80/augusto4/pass8384/387117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIDEO BRESCIA" tvg-logo="http://172.110.220.61:80/images/b42f04e77cf95f87fdf5636ec8c08bbb.png" group-title="IT: Italy General",IT: VIDEO BRESCIA
+http://cdn-ky.com:80/augusto4/pass8384/227445.m3u8
+#EXTINF:-1 tvg-id="tvavicenza.it" tvg-name="IT: TvA Vicenza" tvg-logo="http://23.227.147.172:80/images/59d77d6f3abd7fb3a1d4a1f0c9b8cf19.png" group-title="IT: Italy General",IT: TvA Vicenza
+http://cdn-ky.com:80/augusto4/pass8384/227431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Icaro TV" tvg-logo="http://23.227.147.172:80/images/5a69566081344bcac174d476cdc9aa5e.png" group-title="IT: Italy General",IT: Icaro TV
+http://cdn-ky.com:80/augusto4/pass8384/227158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV 18" tvg-logo="http://185.193.88.130:80/images/0749645b6fca30c27ad019fbe05f910b.png" group-title="IT: Italy General",IT: Esperia TV 18
+http://cdn-ky.com:80/augusto4/pass8384/227081.m3u8
+#EXTINF:-1 tvg-id="TeleColor.it" tvg-name="IT: Telecitta" tvg-logo="http://172.110.220.61:80/images/3ef899d0cb20338a2dd9bdd099a36dce.png" group-title="IT: Cultura",IT: Telecitta
+http://cdn-ky.com:80/augusto4/pass8384/387263.m3u8
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="IT: Telechiara" tvg-logo="http://23.227.147.172:80/images/eb1c99bb93b3ce0764e57d3cb909dc86.png" group-title="IT: Cultura",IT: Telechiara
+http://cdn-ky.com:80/augusto4/pass8384/387262.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="IT: Discovery Science" tvg-logo="http://23.227.147.172:80/images/7d6af1be331585e1d0d6913375490692.png" group-title="IT: Cultura",IT: Discovery Science
+http://cdn-ky.com:80/augusto4/pass8384/387227.m3u8
+#EXTINF:-1 tvg-id="primafila5.it" tvg-name="IT: SKY Primafila 5 HD" tvg-logo="http://23.227.147.172:80/images/44c6cd8e0a69727d8b4b3a2edefdc435.png" group-title="IT: Sky Primafila",IT: SKY Primafila 5 HD
+http://cdn-ky.com:80/augusto4/pass8384/387194.m3u8
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: Inter Channel" tvg-logo="http://23.227.147.172:80/images/4006bb9bec8e5450a7a0eeb999712e1d.png" group-title="IT: Sky Sports",IT: Inter Channel
+http://cdn-ky.com:80/augusto4/pass8384/387178.m3u8
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="IT: Canale 8" tvg-logo="http://185.193.88.130:80/images/7b771fb984f581a85376e9c3c26edb49.png" group-title="IT: Italy General",IT: Canale 8
+http://cdn-ky.com:80/augusto4/pass8384/387053.m3u8
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: Sky Italia Sport 24 HD" tvg-logo="http://172.110.220.61:80/images/80797527fdbc39a317cbb7742e38e5c9.png" group-title="IT: Sky Sports",IT: Sky Italia Sport 24 HD
+http://cdn-ky.com:80/augusto4/pass8384/374631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Dazn Bar HD" tvg-logo="http://172.110.220.61:80/images/8962de15c4df857dbe70ff93a8058f92.png" group-title="IT: Italy General",IT: Sky Dazn Bar HD
+http://cdn-ky.com:80/augusto4/pass8384/227315.m3u8
+#EXTINF:-1 tvg-id="premiumaction.it" tvg-name="IT: Premium Action FHD" tvg-logo="http://23.227.147.172:80/images/979c567ebdd1ed3730e17b88a29972fd.jpg" group-title="IT: Italy General",IT: Premium Action FHD
+http://cdn-ky.com:80/augusto4/pass8384/227181.m3u8
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT: LA 5 MEDIASET HD" tvg-logo="http://185.193.88.130:80/images/cd5df2e3f2b58934fbb66c13c73950bd.png" group-title="IT: Italy General",IT: LA 5 MEDIASET HD
+http://cdn-ky.com:80/augusto4/pass8384/227121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Juventus Channel" tvg-logo="" group-title="IT: Sky Sports",IT: Juventus Channel
+http://cdn-ky.com:80/augusto4/pass8384/387176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Padre Pio TV" tvg-logo="http://23.227.147.172:80/images/d3ffcb4fdc20d5dda9722f4316c6c7b1.png" group-title="IT: Cultura",IT: Padre Pio TV
+http://cdn-ky.com:80/augusto4/pass8384/387250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Calcio 1" tvg-logo="" group-title="IT: Sky Sports",IT: SKY Calcio 1
+http://cdn-ky.com:80/augusto4/pass8384/2294679.m3u8
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT: TV7 Triveneta" tvg-logo="http://172.110.220.61:80/images/013c39e4d1f8d6ea01e6ca8e2db032e6.png" group-title="IT: Cultura",IT: TV7 Triveneta
+http://cdn-ky.com:80/augusto4/pass8384/387270.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.it" tvg-name="IT: Paramount Network" tvg-logo="http://185.193.88.130:80/images/9ebb9e7130cd220fce7ad2ff8593cd74.png" group-title="IT: Intrattenimento",IT: Paramount Network
+http://cdn-ky.com:80/augusto4/pass8384/387111.m3u8
+#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="IT: TG Norba 24" tvg-logo="http://172.110.220.61:80/images/c9cf0e690d98d8258cc0f2f32a3093b2.png" group-title="IT: Italy General",IT: TG Norba 24
+http://cdn-ky.com:80/augusto4/pass8384/227418.m3u8
+#EXTINF:-1 tvg-id="premiumcinemaemotion.it" tvg-name="IT: Premium Emotion" tvg-logo="http://185.193.88.130:80/images/283fb41e4c9d7dd2bc863383cb291567.png" group-title="IT: Italy General",IT: Premium Emotion
+http://cdn-ky.com:80/augusto4/pass8384/227192.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="IT: Food Network" tvg-logo="http://172.110.220.61:80/images/344f1c3d7f5a15843fefad1ef7edbd35.png" group-title="IT: Intrattenimento",IT: Food Network
+http://cdn-ky.com:80/augusto4/pass8384/387103.m3u8
+#EXTINF:-1 tvg-id="laziostylechannel.it" tvg-name="IT: LAZIO Style FHD" tvg-logo="http://23.227.147.172:80/images/4d167bd8764c65f3e6bfa3454264bb6a.png" group-title="IT: Intrattenimento",IT: LAZIO Style FHD
+http://cdn-ky.com:80/augusto4/pass8384/227127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Horse Tv" tvg-logo="" group-title="IT: Italy General",IT: Horse Tv
+http://cdn-ky.com:80/augusto4/pass8384/2745537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Twentyseven" tvg-logo="" group-title="IT: Italy General",IT: Twentyseven
+http://cdn-ky.com:80/augusto4/pass8384/2745538.m3u8
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="IT: History Channel HD" tvg-logo="http://172.110.220.61:80/images/6aa20917cbfa7e75beb4346fa611bf36.png" group-title="IT: Italy General",IT: History Channel HD
+http://cdn-ky.com:80/augusto4/pass8384/220824.m3u8
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="IT: NAT GEO HD" tvg-logo="http://172.110.220.61:80/images/cfdfb0059b102129e5185b44c14442ee.png" group-title="IT: Cultura",IT: NAT GEO HD
+http://cdn-ky.com:80/augusto4/pass8384/1287214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 2 HD" tvg-logo="" group-title="IT: Sky Sports",IT: DAZN 2 HD
+http://cdn-ky.com:80/augusto4/pass8384/2763012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 3 HD" tvg-logo="" group-title="IT: Sky Sports",IT: DAZN 3 HD
+http://cdn-ky.com:80/augusto4/pass8384/2763013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN 4 HD" tvg-logo="" group-title="IT: Sky Sports",IT: DAZN 4 HD
+http://cdn-ky.com:80/augusto4/pass8384/2763014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: MOTOR TREND" tvg-logo="" group-title="IT: Sky Sports",IT: MOTOR TREND
+http://cdn-ky.com:80/augusto4/pass8384/2768998.m3u8
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="IT: Mediaset Italia" tvg-logo="http://185.193.88.130:80/images/6a883e759220b81242195f76faa67886.png" group-title="IT: Mediaset Premium",IT: Mediaset Italia
+http://cdn-ky.com:80/augusto4/pass8384/387123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime Mediaset" tvg-logo="" group-title="IT: Intrattenimento",IT: Top Crime Mediaset
+http://cdn-ky.com:80/augusto4/pass8384/2883885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Milan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a5/Milan_Channel.gif/800px-Milan_Channel.gif" group-title="IT: Sky Sports",IT: Milan TV
+http://cdn-ky.com:80/augusto4/pass8384/2890966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Tennis" tvg-logo="" group-title="IT: Sky Sports",IT: Sky Sport Tennis
+http://cdn-ky.com:80/augusto4/pass8384/3181591.m3u8
